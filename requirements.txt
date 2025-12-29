@@ -1,10 +1,10 @@
 streamlit
-torch
+opencv-python==4.5.1.48
+ultralytics==8.0
+torch==1.12.1
+torchvision==0.13.1
 Pillow
-torchvision
 numpy
-opencv-python
 pyyaml
 requests
 streamlit-webrtc
-ultralytics
